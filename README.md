@@ -2,9 +2,9 @@
 
 > A frontend-only web application that bridges the gap between scrap sellers, small dealers, and large-scale bulk traders — bringing transparency, fair pricing, and efficiency to Pakistan's informal scrap economy.
 # Team - Cheater
-> I am from PUCIT, studying data science, second semester.
+> My name is Shahryar Khalid.I am from PUCIT, studying data science, second semester. I am passionate about learning new things.
 # Domain - Ecommerce and Management
-> A 24 Hour Hackathon Projct, manages and deal with the real world problem, solve unorganized scrap dealing system in Pakistan.
+> A 24 Hour Hackathon Projct, manages and deal with the real world problem, solve unorganized scrap dealing system in Pakistan. This covers B2B and B2C bussiness.
 ---
 
 ## 🚀 Live Demo
