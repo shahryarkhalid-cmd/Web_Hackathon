@@ -29,7 +29,7 @@ Pakistan's scrap economy is largely unorganized. Households don't know the fair 
 - Accept a deal with one click
 
 ### 🏭 Dealer Dashboard (`I Am a Dealer`)
-- **B2C Channel:** Browse open scrap listings from individual sellers, submit price bids with a proposed pickup date
+- **C2B Channel:** Browse open scrap listings from individual sellers, submit price bids with a proposed pickup date
 - **B2B Channel:** View available inventory lots from small dealers across Lahore, select multiple lots, and analyze profitability via a real-time **Profit Optimizer** (shows total cost, estimated revenue at bulk sell rate, and projected gross profit)
 - Connect with 10+ large bulk traders in Lahore (Bandha Road, Ravi Road, Saggian, etc.) — eligibility gating based on minimum order weight
 

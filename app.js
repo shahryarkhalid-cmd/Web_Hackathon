@@ -509,7 +509,7 @@ function renderDealerDashboard() {
     
     return `
         <div class="container animate-slide-in" style="padding-bottom: 6rem;">
-            <!-- B2C SECTION -->
+            <!-- C2B SECTION -->
             <section style="margin-bottom: 6rem;">
                 <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin-bottom: 3rem;">
                     <div>
@@ -550,7 +550,7 @@ function renderDealerDashboard() {
                 </div>
             </section>
 
-            <!-- B2C BIDDING MODAL -->
+            <!-- C2B BIDDING MODAL -->
             ${appState.isBiddingModalOpen && appState.activeBiddingRequest ? `
                 <div class="modal active">
                     <div class="modal-content" style="max-width: 30rem;">
