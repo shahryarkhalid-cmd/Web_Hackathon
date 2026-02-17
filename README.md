@@ -1,7 +1,10 @@
 # ♻️ ScrappyDoo — Digitizing the Scrap Economy of Pakistan
 
 > A frontend-only web application that bridges the gap between scrap sellers, small dealers, and large-scale bulk traders — bringing transparency, fair pricing, and efficiency to Pakistan's informal scrap economy.
-
+# Team - Cheater
+> My name is Shahryar Khalid.I am from PUCIT, studying data science, second semester. I am passionate about learning new things.
+# Domain - Ecommerce and Management
+> A 24 Hour Hackathon Projct, manages and deal with the real world problem, solve unorganized scrap dealing system in Pakistan. This covers B2B and B2C bussiness.
 ---
 
 ## 🚀 Live Demo
@@ -43,7 +46,6 @@ Pakistan's scrap economy is largely unorganized. Households don't know the fair 
 | Styling | CSS3 (custom, no framework) |
 | Logic | Vanilla JavaScript (ES6+) |
 | Fonts | Google Fonts — Plus Jakarta Sans |
-| Backend | ❌ None required |
 
 > **100% frontend.** No Node.js, no npm, no build step, no API keys.
 
